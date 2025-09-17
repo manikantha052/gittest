@@ -1,10 +1,10 @@
 I am adding file3 for your info
 
-file added 
+file added
 
-<<<<<<< HEAD
+
 
 git added in main branch
-=======
+
 added new line in feature1
->>>>>>> feature1
+
