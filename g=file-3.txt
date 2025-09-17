@@ -8,4 +8,3 @@ git added in main branch
 
 added new line in feature1
 
-git added in main
